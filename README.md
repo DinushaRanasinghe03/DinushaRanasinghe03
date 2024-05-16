@@ -1,4 +1,4 @@
-<div style="float: left;">
+<div style="float: right;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DinushaRanasinghe03.DinushaRanasinghe03" />
 </div>
 
@@ -8,10 +8,11 @@
   </a>
 </h1>
 
-<!--
-**DinushaRanasinghe03/DinushaRanasinghe03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate IT Undergraduate </h3>
 
-Here are some ideas to get you started:
+<br/>
+
+<div align= "center">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  </div>
