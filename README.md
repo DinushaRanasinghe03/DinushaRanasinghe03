@@ -1,4 +1,4 @@
-<div style="float: right;">
+<div style="float: left;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DinushaRanasinghe03.DinushaRanasinghe03" />
 </div>
 
