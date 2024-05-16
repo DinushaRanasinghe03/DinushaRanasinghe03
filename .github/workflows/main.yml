@@ -1,7 +1,9 @@
-
 name: main
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   test:
@@ -38,14 +40,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: ensure the generated file exists
+      - name: ensure the generated files exist
         run: |
           ls dist
           test -f dist/github-contribution-grid-snake.svg
           test -f dist/github-contribution-grid-snake-dark.svg
-          test -f dist/github-contribution-grid-snake.gif
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -79,7 +79,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: ensure the generated file exists
+      - name: ensure the generated files exist
         run: |
           ls dist
           test -f dist/github-contribution-grid-snake.svg
@@ -112,4 +112,4 @@ jobs:
           target_branch: gh-pages
           build_dir: packages/demo/dist
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
