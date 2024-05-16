@@ -14,21 +14,14 @@
 
 <div align= "center">
 
- 🔭 I’m currently working on ...
+ 🌱 I’m currently learning **MERN**
  
- 🌱 I’m currently learning ...
+ 🧑‍🎓 I’m an Undergraduate at **SLIIT**
  
- 👯 I’m looking to collaborate on ...
+ 💬 Ask me about **Java**
  
- 🤔 I’m looking for help with ...
- 
- 💬 Ask me about ...
- 
- 📫 How to reach me: ...
- 
- 😄 Pronouns: ...
- 
- ⚡ Fun fact: ...
+ 📫 How to reach me **dinushaumayangani02@gmail.com**
+
  
  <div style="text-align: center;">
   <a href="mailto:dinushaumayangani02@gmail.com">
@@ -58,7 +51,11 @@
   <img width="390" src="https://streak-stats.demolab.com/?user=DinushaRanasinghe03&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=DinushaRanasinghe03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinushaRanasinghe03&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  <td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DinushaRanasinghe03&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
 </div>
 
 <br/><br/>
