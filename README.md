@@ -53,7 +53,8 @@
   <br/>
   <td width="50%" align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DinushaRanasinghe03&hide=Hack&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="DinushaRanasinghe03" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DinushaRanasinghe03&hide=Hack&langs_count=8&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="DinushaRanasinghe03" />
+ 
 
 </p>
   </td>
