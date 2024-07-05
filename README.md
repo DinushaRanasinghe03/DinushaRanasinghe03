@@ -8,6 +8,11 @@
   </a>
 </h1>
 
+<p align="center">
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/DinushaRanasinghe03/DinushaRanasinghe03/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 <h3 align="center">A passionate IT Undergraduate </h3>
 
 <br/>
