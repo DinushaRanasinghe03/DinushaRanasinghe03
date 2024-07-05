@@ -8,9 +8,11 @@
   </a>
 </h1>
 
-<p align="center">
-  <img alt="GitHub contribution grid snake animation" src="https://github.com/DinushaRanasinghe03/DinushaRanasinghe03/raw/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DinushaRanasinghe03/DinushaRanasinghe03/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DinushaRanasinghe03/DinushaRanasinghe03/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture></br>
 
 
 <h3 align="center">A passionate IT Undergraduate </h3>
