@@ -23,7 +23,7 @@
  
  🧑‍🎓 I’m an Undergraduate at **SLIIT**
  
- 💬 Ask me about **Java**
+ 💬 Ask me about **Java,JavaScript**
  
  📫 How to reach me **dinushaumayangani02@gmail.com**
 
